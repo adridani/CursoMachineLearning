@@ -1,6 +1,5 @@
 # CursoMachineLearning
 - 18/04/2023 
-Python
 Carpeta'Día 1':
   · Cuaderno de ejercicios básicos y avanzados
   · Cuaderno de condicionales
