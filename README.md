@@ -17,3 +17,7 @@ Carpeta 'Día 3':
   · Introducción a Prophet
   · Introducción a Folium
   · Carpeta 'CSV'
+- 21/04/2023
+Carpeta 'Día 4':
+  · Cuaderno de ejercicios SpaceX - Predicciones
+  · Cuaderno de ejercicios SpaceX - Folium
