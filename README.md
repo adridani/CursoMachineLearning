@@ -21,3 +21,7 @@ Carpeta 'Día 3':
 Carpeta 'Día 4':
   · Cuaderno de ejercicios SpaceX - Predicciones
   · Cuaderno de ejercicios SpaceX - Folium
+- 22/04/2023
+Carpeta 'Día 5':
+  · Cuaderno de ejercicios Pandas
+  · Python: EDA usando SQL
